@@ -1,0 +1,10 @@
+PURCHASE ORDER PO-2026-0931
+Buyer: Initech LLC
+Supplier: Acme Supply Co.
+Order date: 2026-06-20 | Delivery: 2026-07-05
+
+  500x Resistor Kit @ 0.80 = 400.00
+
+Subtotal 400.00 | Tax 32.00 | TOTAL 432.00 USD
+Ship to: 500 Tech Park, Austin
+(Synthetic demo document — all names and numbers are invented.)

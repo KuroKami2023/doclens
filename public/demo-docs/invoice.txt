@@ -1,0 +1,18 @@
+ACME SUPPLY CO.
+123 Market Street, Springfield
+INVOICE #INV-2026-0417
+
+Bill to: Globex Corp, 900 Commerce Ave, Springfield
+
+Issue date: 2026-08-12
+Due date: 2026-09-11
+
+  Widget A   x10 @ 25.00 = 250.00
+  Gadget B   x5  @ 40.00 = 200.00
+
+Subtotal: 450.00
+Tax (8%): 36.00
+TOTAL: 486.00 USD
+
+Payment terms: Net 30
+(Synthetic demo document — all names and numbers are invented.)

@@ -1,0 +1,16 @@
+JANE DOE
+jane.doe@example.com | 555-0102 | Springfield
+
+SUMMARY
+Frontend engineer with 5 years of React experience.
+
+SKILLS
+JavaScript, React, Vite, Tailwind CSS
+
+EXPERIENCE
+UI Engineer, Globex (2022–2026)
+Web Developer, Initech (2020–2022)
+
+EDUCATION
+B.S. Computer Science, State University (2020)
+(Synthetic demo document — all names and numbers are invented.)

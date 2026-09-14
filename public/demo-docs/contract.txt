@@ -1,0 +1,7 @@
+SERVICES AGREEMENT (demo)
+Between Globex Corp (Party A) and Acme Supply Co. (Party B).
+Effective: 2026-01-15 | Expires: 2027-01-14
+Governing law: State of Springfield
+Total value: 120,000 USD
+Clause 4: Net-30 payment. Clause 9: 90-day termination notice.
+(Synthetic demo document — all names and numbers are invented.)

@@ -1,0 +1,13 @@
+-- ============================================================================
+-- DocLens AI — optional demo seed (synthetic data only, clearly labeled).
+-- Replace <USER_ID> with your auth.users id, or use the in-app
+-- "Load synthetic demo" button (recommended — handles ownership for you).
+-- ============================================================================
+
+-- Example: one synthetic invoice row (repeat pattern for other types).
+-- insert into public.documents
+--   (owner_id, file_name, file_path, mime_type, file_size_bytes, page_count,
+--    doc_type, status, overall_confidence, processing_time_ms)
+-- values
+--   ('<USER_ID>', 'demo-invoice.txt', '<USER_ID>/demo/demo-invoice.txt',
+--    'text/plain', 512, 1, 'invoice', 'done', 93.2, 8400);

@@ -1,0 +1,13 @@
+SUNNY CAFE — 44 Harbor Rd
+Receipt #RC-88121
+2026-07-02 14:22
+
+  Latte       4.50
+  Croissant   3.25
+
+Subtotal  7.75
+Tax       0.62
+TOTAL     8.37 USD
+
+Paid: Visa ****1234
+(Synthetic demo document — all names and numbers are invented.)
